@@ -1,0 +1,9 @@
+
+spring:
+    data:
+        mongodb:
+            uri: mongodb+srv://<USERNAME>:<PASSWORD>@cluster0.vhh4x.mongodb.net/bot?retryWrites=true&w=majority
+            # database: testdb
+            # host: localhost
+            # port: 27017
+            # authentication-database: admin
